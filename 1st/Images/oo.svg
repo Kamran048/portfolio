@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1378" height="1192" viewBox="0 0 1378 1192">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_187" data-name="Rectangle 187" width="1378" height="1192" transform="translate(10565 6287)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Forme_BG_Solution" data-name="Forme BG Solution" transform="translate(-10565 -6287)" clip-path="url(#clip-path)">
+    <path id="FORME_BG" data-name="FORME BG" d="M1263.191,1189.945s-119.2-108.362-875.9-329.091S-57.518-159.791,1468.866,23.5c2.776,2.521-25.073,142.2-25.073,142.2L1395.157,441.53l-87.511,496.3Z" transform="matrix(-0.985, 0.174, -0.174, -0.985, 12012.643, 7244.688)" fill="#f7f7ff"/>
+  </g>
+</svg>
